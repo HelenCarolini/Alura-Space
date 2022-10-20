@@ -6,6 +6,8 @@ import Cabecalho from "../../componets/cabecalho";
 import Menu from "../../componets/Menu";
 
 import styles from './PaginaInicial.module.scss';
+import Footer from '../../componets/Footer';
+import Galeria from '../../componets/galeria';
 
 
 export default function PaginaInicial() {
@@ -22,6 +24,11 @@ export default function PaginaInicial() {
                     </div>
                 </section>
             </main>
+            <div className={styles.galeria}>
+                <Galeria />
+            </div>
+            <Footer />
+            
 
 
         </>
