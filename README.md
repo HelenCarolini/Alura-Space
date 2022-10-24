@@ -19,12 +19,15 @@ Vantagens de utilizar o CSS modules e o Sass
 Utilizando métodos JavaScript para adicionar funcionalidades a página
 Realizando o deploy de sua aplicação na Vercel
 
-🔗 Link para acessar
+# 🔗 Link para acessar
+
 spacetime-delta.vercel.app
 
 
-🛠 Tecnologias
+# 🛠 Tecnologias
+
 ' JSX, CSS, SASS, HTML5'
 
-👩‍💻 Desenvolvedora
+# 👩‍💻 Desenvolvedora
+
 Helen Carolini Pereira
